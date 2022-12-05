@@ -8,17 +8,10 @@ and Epidemiology (QMBCE)][qmbce] and [Conservation Management of African Ecosyst
 repositories created by our students.
 
 The main repository for teaching the RPiR course is [here][rpir-gh]. It is a self-contained R package on GitHub which
-contains all of the course materials, including the lectures and tutorial exercises, which can be installed by simply
-installing the [`devtools`][devtools] package from CRAN (for instance by running `install.packages("devtools")`, and then
-running:
+contains all of the course materials, including the lectures and tutorial exercises, which can be [easily installed][install]
+using CRAN's [`devtools`][devtools] package.
 
-```R
-devtools::install_github("SBOHVM/RPiR")
-```
-
-*slightly more details are available [here][install].*
-
-Potted summary:
+### Main links:
 
 - [Git repository][rpir-gh]
 - [Documentation][rpir]
