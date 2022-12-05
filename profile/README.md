@@ -1,8 +1,8 @@
-## SBOHVM Reproducible Programming
+## Introduction
 
 This organisation is run by members of [School of Biodiversity, One Health and Veterinary Medicine (SBOHVM)][sbohvm]
 in the [College of Medical, Veterinary and Life Sciences][mvls] at the [University of Glasgow][uofg]. At the moment it
-contains the material for teaching the [Reproducible Programming in R (RPiR)][rpir] course, led by [Richard Reeve][rr]
+just contains the material for teaching the [Reproducible Programming in R (RPiR)][rpir] course, led by [Richard Reeve][rr]
 ([GitHub][rr-gh]), which forms part of two of our Masters courses - [Quantitative Methods in Biodiversity, Conservation
 and Epidemiology (QMBCE)][qmbce] and [Conservation Management of African Ecosystems (CMAE)][cmae] - as well as private
 repositories created by our students.
